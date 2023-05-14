@@ -614,7 +614,7 @@ class Func():
         new_value_of_x = 70
         new_value_of_x2 = 70
         b = 100
-        for question in range(9):
+        for question in range(1, 9):
             a = 0
             answer = 0
             for digit in range(5):
